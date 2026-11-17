@@ -1,0 +1,14 @@
+# God knows
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+
+# LLaMA-Factory
+saves/
+models/
+output/
+wandb/
+runs/
+*.bin
+*.safetensors
+*.gguf
