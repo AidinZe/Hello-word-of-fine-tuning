@@ -1,7 +1,4 @@
 # Hello-word-of-fine-tuning
-<<<<<<< HEAD
-These are some of the "Hello World" of fine-tuning large language models, built with LLaMA-Factory. Learn and Enjoy!
-=======
 
 These are some of the "Hello World" of fine-tuning large language models, built with [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory). Learn and Enjoy!
 
@@ -85,4 +82,3 @@ Open `notebooks/03_finetune_with_llama_factory.ipynb` in Colab (free T4 GPU is e
 ## License
 
 MIT
->>>>>>> master
