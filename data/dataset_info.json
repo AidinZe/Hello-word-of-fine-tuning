@@ -1,0 +1,10 @@
+{
+  "hello_alpaca": {
+    "file_name": "hello_alpaca.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}

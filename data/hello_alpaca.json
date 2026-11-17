@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "Say hello in a friendly way.",
+    "input": "",
+    "output": "Hello there! So glad to see you. How can I help you today?"
+  },
+  {
+    "instruction": "Tell me a fun fact about space.",
+    "input": "",
+    "output": "A day on Venus is longer than a year on Venus! It takes Venus longer to rotate once on its axis than to orbit the Sun."
+  },
+  {
+    "instruction": "Translate to formal English.",
+    "input": "hey, can u help me?",
+    "output": "Hello, would you kindly assist me?"
+  },
+  {
+    "instruction": "Classify the sentiment of this review as positive or negative.",
+    "input": "The movie was a complete waste of time.",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Classify the sentiment of this review as positive or negative.",
+    "input": "I loved every minute of it, the acting was superb!",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Write a one-line summary of this text.",
+    "input": "Scientists discovered a new species of frog in the Amazon rainforest that changes color at night.",
+    "output": "A color-changing frog species was discovered in the Amazon."
+  },
+  {
+    "instruction": "Rewrite this sentence to be more polite.",
+    "input": "give me the report now",
+    "output": "Could you please share the report when you have a moment?"
+  },
+  {
+    "instruction": "Explain what machine learning is in one sentence.",
+    "input": "",
+    "output": "Machine learning is a way of teaching computers to find patterns in data and make predictions, without explicitly programming the rules."
+  },
+  {
+    "instruction": "Generate a catchy name for a coffee shop.",
+    "input": "",
+    "output": "The Daily Grind"
+  },
+  {
+    "instruction": "Convert this question into a search query.",
+    "input": "What is the best way to learn programming?",
+    "output": "best way to learn programming"
+  },
+  {
+    "instruction": "Correct the grammar of this sentence.",
+    "input": "she dont like apples",
+    "output": "She doesn't like apples."
+  },
+  {
+    "instruction": "Write a short birthday message for a friend.",
+    "input": "",
+    "output": "Happy birthday! May your year be filled with laughter, good coffee, and great code."
+  },
+  {
+    "instruction": "List three benefits of exercise.",
+    "input": "",
+    "output": "1. Improves mood and mental health\n2. Strengthens the heart and muscles\n3. Helps you sleep better"
+  },
+  {
+    "instruction": "Summarize the plot of a typical hero movie in one sentence.",
+    "input": "",
+    "output": "An unlikely hero faces a great challenge, grows through struggle, and saves the day."
+  },
+  {
+    "instruction": "Convert this text to a bullet-point list.",
+    "input": "To make tea, boil water, add a tea bag, wait three minutes, then remove the bag and add milk or sugar if you like.",
+    "output": "- Boil water\n- Add a tea bag\n- Wait three minutes\n- Remove the bag\n- Add milk or sugar (optional)"
+  },
+  {
+    "instruction": "Reply to this message like a customer support agent.",
+    "input": "My order hasn't arrived yet and it's been two weeks!",
+    "output": "I'm very sorry for the delay. Could you please share your order number? I'll look into it right away and make sure it gets resolved today."
+  }
+]
